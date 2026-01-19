@@ -3,6 +3,7 @@ name: Giuseppe Pontillo
 slug: giuseppe-pontillo
 role: Postdoctoral researcher
 affiliation: Amsterdam UMC, location VUmc, Netherlands
+country: Netherlands
 photo: /assets/members/GiuseppePontillo.jpg
 bio: >
   Neuroradiologist. Imaging neuroscientist. AI enthusiast.
